@@ -2,9 +2,11 @@
 page_type: sample
 languages:
 - java
+- html
 products:
 - azure-active-directory
-description: "Functional code to reproduce problema with logout"
+Issues:
+- https://github.com/Azure/azure-sdk-for-java/issues/28319
 ---
 
 # OAuth 2.0 Example with Azure AD to reproduce problem with logout
