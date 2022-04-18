@@ -1,5 +1,4 @@
 ---
-page_type: sample
 languages:
 - java
 - html
