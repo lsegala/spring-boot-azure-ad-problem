@@ -1,0 +1,10 @@
+com\azure\spring\sample\aad\service\UserService.class
+com\azure\spring\sample\aad\service\CustomADOAuth2UserService.class
+com\azure\spring\sample\aad\config\CustomSuccessHandler.class
+com\azure\spring\sample\aad\AzureADOAuth2WebAppAndResourceServerSampleApplication.class
+com\azure\spring\sample\aad\controller\webapp\UserController.class
+com\azure\spring\sample\aad\controller\webapp\WelcomeController.class
+com\azure\spring\sample\aad\security\AADWebApplicationAndResourceServerConfig.class
+com\azure\spring\sample\aad\model\User.class
+com\azure\spring\sample\aad\controller\webapp\WelcomeController$GraphAuthenticationProvider.class
+com\azure\spring\sample\aad\model\Role.class
