@@ -16,9 +16,9 @@ spring:
 
 azure:
   activedirectory:
-    client-id: 5b14ee20-df58-427b-ad7e-9b532f62315d
-    client-secret: 4O-7Q~IsvwRJeojQKzgx2UhshsOrpvx139owf
-    tenant-id: 92e84ceb-fbfd-47ab-be52-080c6b87953f
+    client-id: XXXXXXX
+    client-secret: XXXXXXX
+    tenant-id: XXXXXX
     userNameAttribute: preferred_username
     post-logout-redirect-uri: http://localhost:8080
     authorization-clients:
